@@ -1,0 +1,15 @@
+/* Muhammad Ali Saeed 
+i263169 
+SE-D  */
+
+table, th, td {
+    text-align:center;
+    border:1px solid black;
+}
+img {
+    width: 500px;
+    height: 600px;
+}
+body {
+    background-color: powderblue;
+}
